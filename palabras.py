@@ -1,0 +1,1 @@
+palabras = ['javascipt', 'python', 'php', 'go', 'typescript']
